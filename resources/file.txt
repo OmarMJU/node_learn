@@ -1,0 +1,3 @@
+Hola, soy un archivo y te voy a ayudar a entender un poquito el mòdulo de File system de NodeJs.
+Espero ayudarte tanto como quiero.
+Happy hacking!!!
