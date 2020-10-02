@@ -1,0 +1,8 @@
+Hola, soy un archivo bien chevere.
+Y voy a servir de pruebas para el ejemplo de stream.
+Tambien
+voy
+a tener
+una
+estructura
+muy rara.
