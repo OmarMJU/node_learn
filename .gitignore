@@ -1,3 +1,4 @@
 /moduls/nativs/build
 node_modules/
 *.png
+*.JPG
